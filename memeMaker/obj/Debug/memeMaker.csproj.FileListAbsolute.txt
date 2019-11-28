@@ -1,0 +1,13 @@
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\bin\Debug\memeMaker.exe.config
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\bin\Debug\memeMaker.exe
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\bin\Debug\memeMaker.pdb
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\obj\Debug\memeMaker.csprojAssemblyReference.cache
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\obj\Debug\memeMaker.Form1.resources
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\obj\Debug\memeMaker.Properties.Resources.resources
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\obj\Debug\memeMaker.csproj.GenerateResource.cache
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\obj\Debug\memeMaker.exe
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\obj\Debug\memeMaker.pdb
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\bin\Debug\memeMaker.exe.manifest
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\bin\Debug\memeMaker.application
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\obj\Debug\memeMaker.exe.manifest
+C:\Users\Lynh Mochi\source\repos\memeMaker\memeMaker\obj\Debug\memeMaker.application
